@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Archivos Python
+__pycache__/
+*.pyc
+
+# Archivos generados
+*.xlsx
+
+# Archivos del sistema
+.DS_Store
